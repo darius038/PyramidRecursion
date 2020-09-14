@@ -1,9 +1,13 @@
-# PyramidRecursion
-Printing odd number pyramid using recursion function
+## PyramidRecursion
+> C#
 
-xxxxxxxxxxx
- xxxxxxxxx
-  xxxxxxx
-   xxxxx
-    xxx
-     x
+> Printing odd number pyramid using recursion function
+
+```shell
+ xxxxxxxxxxx
+  xxxxxxxxx
+   xxxxxxx
+    xxxxx
+     xxx
+      x
+```
