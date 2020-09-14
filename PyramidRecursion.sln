@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidRecursion", "PyramidRecursion\PyramidRecursion.csproj", "{B469F3C5-E949-41D2-B7FF-278E527FBF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B469F3C5-E949-41D2-B7FF-278E527FBF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B469F3C5-E949-41D2-B7FF-278E527FBF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B469F3C5-E949-41D2-B7FF-278E527FBF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B469F3C5-E949-41D2-B7FF-278E527FBF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F804D92-E855-4508-AB22-3CA570AE858B}
+	EndGlobalSection
+EndGlobal
