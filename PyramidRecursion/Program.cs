@@ -9,7 +9,7 @@ namespace PyramidRecursion
             int number = 0;
             do
             {
-                Console.WriteLine("Enter odd number > 2");
+                Console.WriteLine("Enter odd number bigger than 2");
                 number = int.Parse(Console.ReadLine());
             } while (number <= 2 && number%2!=0 );
 
@@ -22,12 +22,12 @@ namespace PyramidRecursion
             {
                 return;
             }   
-                //space left
+                //print space from left
                 for (int j = 0; j < r; j++)
                 {
                     Console.Write(" ");
                 }
-                //center
+                //print cross
                 for (int j = 0; j < n; j++)
                 {
                     Console.Write("x");
